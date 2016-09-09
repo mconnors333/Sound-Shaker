@@ -12,6 +12,7 @@
 		37E7430C1D832C090050FBF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37E7430A1D832C090050FBF5 /* Main.storyboard */; };
 		37E7430E1D832C090050FBF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37E7430D1D832C090050FBF5 /* Assets.xcassets */; };
 		37E743111D832C090050FBF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37E7430F1D832C090050FBF5 /* LaunchScreen.storyboard */; };
+		37E7431D1D8359430050FBF5 /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 37E7431C1D8359430050FBF5 /* Sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		37E7430D1D832C090050FBF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37E743101D832C090050FBF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		37E743121D832C090050FBF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37E7431C1D8359430050FBF5 /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sounds; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				37E743061D832C090050FBF5 /* AppDelegate.swift */,
 				37E743081D832C090050FBF5 /* ViewController.swift */,
 				37E7430A1D832C090050FBF5 /* Main.storyboard */,
+				37E7431C1D8359430050FBF5 /* Sounds */,
 				37E7430D1D832C090050FBF5 /* Assets.xcassets */,
 				37E7430F1D832C090050FBF5 /* LaunchScreen.storyboard */,
 				37E743121D832C090050FBF5 /* Info.plist */,
@@ -125,6 +128,7 @@
 			files = (
 				37E743111D832C090050FBF5 /* LaunchScreen.storyboard in Resources */,
 				37E7430E1D832C090050FBF5 /* Assets.xcassets in Resources */,
+				37E7431D1D8359430050FBF5 /* Sounds in Resources */,
 				37E7430C1D832C090050FBF5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
